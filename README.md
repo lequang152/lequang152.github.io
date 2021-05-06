@@ -11,7 +11,7 @@
 
 *Tham khảo từ nguồn phattrienphanmem123az.com.
 
-Có thay đổi background, menu game, máy bay nhân vật chính, máy bay địch, Đạn nhân vật chính. 
+Có thay đổi background, menu game, máy bay nhân vật chính, máy bay địch, đạn nhân vật chính, hiệu ứng vụ nổ. 
 
 *Video demo 
 
